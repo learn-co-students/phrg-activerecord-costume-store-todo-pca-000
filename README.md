@@ -243,4 +243,7 @@ You will only be altering code in six files, the three files in the `models` fol
 * [Creating Active Record Models](http://guides.rubyonrails.org/active_record_basics.html#creating-active-record-models)
 * [Timestamps](http://api.rubyonrails.org/classes/ActiveRecord/Timestamp.html)
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-activerecord-costume-store-todo/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-activerecord-costume-store-todo/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Active Record Costume Store</p>
